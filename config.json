@@ -1,0 +1,31 @@
+{
+  
+  "default_prefix": "q",
+    "owners": "your Discord Id",
+    
+
+
+   "guildid": "Your Server Id",
+   "emoji": {
+        "play": "▶️",
+        "stop": "⏹️",
+        "queue": "📄",
+        "success": "☑️",
+        "repeat": "🔁",
+        "error": "❌",
+ "YOUTUBE_API_KEY": "",
+ "premium": "682981714523586606",
+ "PREFIX": "q",
+ "mongodb": "",
+ "database": "",
+ "BOT_ID": "your bot id",
+ "embedcolor": "BLUE",
+ "EMOJI_ARROW":"🔄",
+ "WELCOME_CHANNEL": "welcome channel id",
+    "QUEUE_LIMIT": 2,
+    "owners": "ur dc id",
+    "AME_API": "",
+    "COLOR": "00FFFF",
+    "mongourl": ""
+}
+}
