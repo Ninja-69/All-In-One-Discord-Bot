@@ -57,7 +57,7 @@ IF YOU WANT ADD MORE COOMNDS JOIN SUPPORT SERVER 😁 </h3>
 <h1 align='center'> 💨 Run the projects  </h1>
  
 
-### Fork Latest version on replit [Run this Project In Replit.in](https://replit.com/@DNPAdil/All-In-One-Discord-Bot)
+### Fork Latest version on replit [Run this Project In Replit.in](https://replit.com/@DNPAdil/All-In-One-Discord-Bot?v=1)
 
 ### START THE PROJECT IF U LIKE :)
 ### copyright ©️ 2023-2026 Ninja:
