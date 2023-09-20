@@ -2,7 +2,8 @@
  Made by tag:- Ninja.69#0000
  </h1> 
 
-![welcome to our](https://github.com/Ninja-bruh69/All-In-One-Discord-Bot/assets/130167556/e5694f85-864e-4ab3-88d8-130cea94da98
+![welcome to our](https://github.com/Ninja-bruh69/All-In-One-Discord-Bot/assets/130167556/c90149b9-48e6-4103-8457-c9fe6b56374b)
+
 
 <h3 align='center'> STAR ⭐ THE PROJECT IF U LIKE :) </h3>
 
