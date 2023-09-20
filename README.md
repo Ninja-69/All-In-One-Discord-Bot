@@ -1,6 +1,6 @@
 <h1 align='center'> A Fun and moderation bot with 150+ Commnds made using discord.js 
- Made by tag:- Ninja.69#0000 
-GITHUB - https://github.com/Ninja-bruh69 </h1> 
+ Made by tag:- Ninja.69#0000 **[SUPPORT SERVER](https://dsc.gg/itzmeninja)**
+ </h1> 
 
 
 <h3 align='center'> STAR ⭐ THE PROJECT IF U LIKE :) </h3>
@@ -22,7 +22,7 @@ GITHUB - https://github.com/Ninja-bruh69 </h1>
 - ✅ owner
 
  
-user will not see this plz! dont edit this
+
 
 
    
@@ -30,7 +30,7 @@ user will not see this plz! dont edit this
 IF YOU WANT ADD MORE COOMNDS JOIN SUPPORT SERVER 😁 </h3>
 
 
-**[SUPPORT SERVER](https://dsc.gg/itzmeninja)**||
+**[SUPPORT SERVER](https://dsc.gg/itzmeninja)**
 
 
 
