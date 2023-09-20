@@ -1,5 +1,5 @@
 <h1 align='center'> A Fun and moderation bot with 150+ Commnds made using discord.js 
- Made by tag:- Ninja.69#0000 **[SUPPORT SERVER](https://dsc.gg/itzmeninja)**
+ Made by tag:- Ninja.69#0000
  </h1> 
 
 
@@ -32,7 +32,7 @@ IF YOU WANT ADD MORE COOMNDS JOIN SUPPORT SERVER 😁 </h3>
 
 **[SUPPORT SERVER](https://dsc.gg/itzmeninja)**
 
-
+**[YouTube Channel](https://youtube.com/@itzmeninja000?si=QSCrfM_PCFlQR3yf)**
 
 </a> </div>
 
