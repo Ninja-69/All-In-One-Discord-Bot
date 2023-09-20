@@ -1,7 +1,8 @@
 <h1 align='center'> A Fun and moderation bot with 150+ Commnds made using discord.js 
  Made by tag:- Ninja.69#0000
  </h1> 
-![alt text](https://media.discordapp.net/attachments/1148322529702850560/1153957924780114010/welcome_to_our.png)
+
+![welcome to our](https://github.com/Ninja-bruh69/All-In-One-Discord-Bot/assets/130167556/e5694f85-864e-4ab3-88d8-130cea94da98
 
 <h3 align='center'> STAR ⭐ THE PROJECT IF U LIKE :) </h3>
 
